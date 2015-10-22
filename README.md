@@ -10,19 +10,8 @@ SORACOM provides sets of APIs to control their IoT platform service. This packag
 
 ## Installation
 
-I have not published to PyPI yet, but once published, you can install it like:
-
 ```
 $ pip install soracom 
-```
-
-Otherwise, you can build and install like:
-
-```
-$ git clone https://github.com/j3tm0t0/soracom-python
-$ cd soracom-python
-$ python setup.py bdist_egg
-$ easy_install dist/Soracom-0.1dev_r0-py2.7.egg # filename might change
 ```
 
 ## Usage
